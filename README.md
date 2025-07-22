@@ -91,3 +91,14 @@ Jika repo ini bermanfaat:
 # Kosa kata peracikan untuk Metabrani
 
 Nilai strategis (dari Presiden Prabowo)
+
+```mermaid
+mindmap
+  root((Pelajaran))
+    Tema
+      Cinta
+      Pengkhianatan
+    Karakter
+      Protagonis
+      Antagonis
+
