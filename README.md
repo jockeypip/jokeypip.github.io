@@ -1,8 +1,8 @@
-# Kopijo
+# Jockeypip
 
-![Banner](https://kopijo.github.io/assets/banner.png)
+![Banner](https://jockeypip.github.io/assets/banner.png)
 
-[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?logo=githubpages&logoColor=white)](https://kopijo.github.io/)
+[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?logo=githubpages&logoColor=white)](https://jockeypip.github.io/)
 [![Stars](https://img.shields.io/github/stars/kodeprofit/kopijo.github.io?style=social)](https://github.com/kopijo/kopijo.github.io/stargazers)
 [![License](https://img.shields.io/github/license/kodeprofit/kodeprofit.github.io)](https://github.com/kopijo/kopijo.github.io/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/kopijo/kopijo.github.io)](https://github.com/kopijo/kopijo.github.io/commits/main)
