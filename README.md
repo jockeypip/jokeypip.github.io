@@ -94,18 +94,12 @@ Nilai strategis (dari Presiden Prabowo)
 
 ```mermaid
 mindmap
-  root((Puncak Lembah))
-    Maintrab
-      Teknikal[Teori Teknikal]
-      Momentum[Pasar Saham]
-    Jockey Pip
-      Manual{{Pembaruan AI}}
-      EA[Produk Baru]
-      Psikologis
-      Fisika
-    Investor/Klien/Mitra/Patner
-      Kelas A[Review Film]
-      Kelas B[Konsert Terbaru]
+  root((Judul Utama Puncak Lembah))
+    Cabang 1 Maintrab
+      Sub-cabang 1.1
+      Sub-cabang 1.2
+    Cabang 2 Jockey Pip
+      Sub-cabang 2.1
 ```
 
 
