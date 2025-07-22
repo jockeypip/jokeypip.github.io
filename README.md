@@ -92,15 +92,15 @@ Jika repo ini bermanfaat:
 
 Nilai strategis (dari Presiden Prabowo)
 
-```mermaid
 mindmap
-  root((Pelajaran))
-    Tema
-      Cinta
-      Pengkhianatan
-    Karakter
-      Protagonis
-      Antagonis
-```
-
+  root((Newsletter Mingguan))
+    Berita Utama
+      Politik[Debat Pemilu]
+      Ekonomi[Pasar Saham]
+    Teknologi
+      AI{{Pembaruan AI}}
+      Gadget[Produk Baru]
+    Hiburan
+      Film[Review Film]
+      Musik[Konsert Terbaru]
 
