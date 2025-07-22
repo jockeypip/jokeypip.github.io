@@ -92,15 +92,20 @@ Jika repo ini bermanfaat:
 
 Nilai strategis (dari Presiden Prabowo)
 
+```mermaid
 mindmap
-  root((Newsletter Mingguan))
-    Berita Utama
-      Politik[Debat Pemilu]
-      Ekonomi[Pasar Saham]
-    Teknologi
-      AI{{Pembaruan AI}}
-      Gadget[Produk Baru]
-    Hiburan
-      Film[Review Film]
-      Musik[Konsert Terbaru]
+  root((Puncak Lembah))
+    Maintrab
+      Teknikal[Teori Teknikal]
+      Momentum[Pasar Saham]
+    Jockey Pip
+      Manual{{Pembaruan AI}}
+      EA[Produk Baru]
+      Psikologis
+      Fisika
+    Investor/Klien/Mitra/Patner
+      Kelas A[Review Film]
+      Kelas B[Konsert Terbaru]
+```
+
 
