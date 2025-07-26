@@ -1,35 +1,52 @@
-# Joker Pip – Puncak Lembah
+# 🎭 Joker Pip – Puncak Lembah
 
 ![Joker Pip](./images/joker-puncak-lembah.png)
 
-## Deskripsi
+<div align="center">
 
-Proyek ini terinspirasi dari representasi visual **Joker** yang sedang melakukan **trading Bitcoin** di depan layar penuh grafik harga.  
-Di sampingnya terdapat segelas minuman bertuliskan **Puncak Lembah**, melambangkan dinamika naik-turun pasar crypto dan mentalitas seorang trader menghadapi risiko.
+[![Stars](https://img.shields.io/github/stars/jokerpip/joker-puncak-lembah?style=for-the-badge&color=yellow)](https://github.com/jokerpip/joker-puncak-lembah/stargazers)
+[![Issues](https://img.shields.io/github/issues/username/joker-puncak-lembah?style=for-the-badge&color=red)](https://github.com/username/joker-puncak-lembah/issues)
+[![License](https://img.shields.io/github/license/username/joker-puncak-lembah?style=for-the-badge&color=blue)](./LICENSE)
 
-## Makna Visual
-
-- **Joker** – simbol kekacauan dan ambiguitas psikologis dalam menghadapi volatilitas pasar.  
-- **Grafik Bitcoin** – fluktuasi harga mencerminkan puncak (bullish) dan lembah (bearish) dalam dunia trading.  
-- **Gelas Puncak Lembah** – metafora tentang menerima pahit-manis perjalanan finansial.  
-
-## Fitur Utama
-
-- Ilustrasi semi-realistis berkualitas tinggi.  
-- Tema psikologi trading: antara kesabaran, risiko, dan emosi ekstrem.  
-- Dapat digunakan untuk inspirasi visual, wallpaper, atau proyek seni trading.  
-
-## Lisensi
-
-Gambar dan deskripsi ini digunakan untuk tujuan edukasi dan ilustrasi seni. Pastikan untuk memberi atribusi jika digunakan kembali.
+</div>
 
 ---
 
-### Kutipan Puisi
+## 📖 Deskripsi
 
-> "Di puncak ku tertawa, di lembah ku terdiam,  
-> Namun layar ini tetap kupandangi diam-diam."  
+Proyek ini menggambarkan **Joker** yang sedang **trading Bitcoin** di malam hari, dikelilingi layar penuh grafik harga.  
+Di sampingnya ada **gelas bertuliskan "Puncak Lembah"** – simbol naik turunnya pasar dan perjalanan emosi seorang trader.  
 
 ---
 
-### Struktur Direktori
+## 🎨 Makna Visual
+
+| Elemen | Makna |
+| ------ | ----- |
+| **Joker** | Simbol kekacauan & kebebasan menghadapi risiko |
+| **Bitcoin Chart** | Dinamika harga, naik-turun tak terduga |
+| **Gelas Puncak Lembah** | Filosofi menerima pahit-manis perjalanan trading |
+| **Warna Ungu & Hijau** | Identitas Joker, kontras dengan grafik biru |
+| **City Skyline Malam** | Kesendirian trader saat pasar 24/7 bergerak |
+
+---
+
+## 🧠 Diagram Psikologi Trading
+
+```mermaid
+mindmap
+  root((Puncak Lembah))
+    Puncak
+      Greed
+        Overconfidence
+        Impulsive Buy
+      Euphoria
+    Lembah
+      Fear
+        Panic Sell
+        Regret
+      Depression
+    Kesadaran
+      Manajemen Risiko
+      Disiplin
+      Kontrol Emosi
