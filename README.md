@@ -1,105 +1,35 @@
-# Jockeypip
+# Joker Pip – Puncak Lembah
 
-![Banner](https://jockeypip.github.io/assets/banner.png)
+![Joker Pip](./images/joker-puncak-lembah.png)
 
-[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?logo=githubpages&logoColor=white)](https://jockeypip.github.io/)
-[![Stars](https://img.shields.io/github/stars/kodeprofit/kopijo.github.io?style=social)](https://github.com/kopijo/kopijo.github.io/stargazers)
-[![License](https://img.shields.io/github/license/kodeprofit/kodeprofit.github.io)](https://github.com/kopijo/kopijo.github.io/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/kopijo/kopijo.github.io)](https://github.com/kopijo/kopijo.github.io/commits/main)
+## Deskripsi
 
-https://mastodon.social/@nixCraft
----
+Proyek ini terinspirasi dari representasi visual **Joker** yang sedang melakukan **trading Bitcoin** di depan layar penuh grafik harga.  
+Di sampingnya terdapat segelas minuman bertuliskan **Puncak Lembah**, melambangkan dinamika naik-turun pasar crypto dan mentalitas seorang trader menghadapi risiko.
 
-## 📄 Daftar Isi
+## Makna Visual
 
-- [Tentang Kopijo](#tentang-kopijo)
-- [Fitur Utama](#fitur-utama)
-- [Preview](#preview)
-- [Cara Berkontribusi](#cara-berkontribusi)
-- [Kontak & Diskusi](#kontak--diskusi)
-- [Lisensi](#lisensi)
-- [Dukungan](#dukungan)
+- **Joker** – simbol kekacauan dan ambiguitas psikologis dalam menghadapi volatilitas pasar.  
+- **Grafik Bitcoin** – fluktuasi harga mencerminkan puncak (bullish) dan lembah (bearish) dalam dunia trading.  
+- **Gelas Puncak Lembah** – metafora tentang menerima pahit-manis perjalanan finansial.  
 
----
+## Fitur Utama
 
-## ✨ Tentang Kopijo
+- Ilustrasi semi-realistis berkualitas tinggi.  
+- Tema psikologi trading: antara kesabaran, risiko, dan emosi ekstrem.  
+- Dapat digunakan untuk inspirasi visual, wallpaper, atau proyek seni trading.  
 
-[Kopijo](https://kopijo.github.io/) adalah platform belajar & berbagi strategi trading modern.  
-Kami menyediakan **alat bantu, kode EA, indikator custom, tutorial teknikal**, serta berbagai materi edukasi untuk membantu trader retail dan institusi.
+## Lisensi
+
+Gambar dan deskripsi ini digunakan untuk tujuan edukasi dan ilustrasi seni. Pastikan untuk memberi atribusi jika digunakan kembali.
 
 ---
 
-## 🧰 Fitur Utama
+### Kutipan Puisi
 
-- ✅ Artikel edukasi & analisa pasar
-- ✅ Script EA & indikator gratis
-- ✅ Tools kalkulator risiko & lot
-- ✅ Panduan pengaturan VPS & MT4/MT5
-- ✅ Update berkala, terbuka untuk komunitas
+> "Di puncak ku tertawa, di lembah ku terdiam,  
+> Namun layar ini tetap kupandangi diam-diam."  
 
 ---
 
-## 🌄 Preview
-
-![Preview](https://kopijo.github.io/assets/preview.png)
-
----
-
-## 🤝 Cara Berkontribusi
-
-Kami sangat terbuka untuk kolaborasi!  
-
-1️⃣ **Fork** repository ini  
-2️⃣ Tambahkan perbaikan atau konten baru (artikel, script, gambar)  
-3️⃣ **Pull request** ke branch `main`  
-4️⃣ Kami akan review dan merge jika sesuai
-
----
-
-## 💬 Kontak & Diskusi
-
-- 🌐 Website: [kopijo.github.io](https://kopijo.github.io/)
-- 💬 Telegram: [t.me/kodeprofit](https://t.me/kodeprofit) *(coming soon)*
-- 📷 Instagram: [@kodeprofit](https://instagram.com/kodeprofit) *(coming soon)*
-- 📧 Email: ringinbambu@gmail.com
-
----
-
-## ⚖️ Lisensi
-
-Repo ini dilisensikan di bawah [MIT License](https://github.com/kopijo/kopijo.github.io/blob/main/LICENSE).
-
----
-
-## ❤️ Dukungan
-
-Jika repo ini bermanfaat:
-
-- ⭐ Beri star repository ini
-- 🔗 Share ke teman & komunitas
-- ☕ Dukung kami dengan kopi virtual atau donasi (coming soon)
-
----
-
-> 🚀 *"Belajar. Berbagi. Profit bareng!"* — Kopijo
->
-> "Puncak dan lembah hanyalah bagian dari perjalanan — yang penting, kita tetap profit!" 💹🚀
->
-
----
-
-# Kosa kata peracikan untuk Metabrani
-
-Nilai strategis (dari Presiden Prabowo)
-
-```mermaid
-mindmap
-  root((Judul Utama Puncak Lembah))
-    Cabang 1 Maintrab
-      Sub-cabang 1.1
-      Sub-cabang 1.2
-    Cabang 2 Jockey Pip
-      Sub-cabang 2.1
-```
-
-
+### Struktur Direktori
