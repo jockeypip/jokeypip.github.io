@@ -1,169 +1,164 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Joker Pip – Puncak Lembah</title>
-  <style>
-    /* Reset dasar */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joker Pip – Puncak Lembah</title>
+    <style>
+        /* Reset dasar */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0d0d0d;
-      color: #f1f1f1;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: flex-start;
-      min-height: 100vh;
-      padding: 20px;
-      overflow-x: hidden;
-    }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d0d0d;
+            color: #f1f1f1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+            padding: 20px;
+            overflow-x: hidden;
+        }
 
-    h1 {
-      margin-top: 30px;
-      font-size: 2.8rem;
-      background: linear-gradient(to right, #ff0000, #ffffff); /* Merah ke putih */
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
-      opacity: 0;
-      animation: fadeIn 2s ease forwards;
-    }
+        h1 {
+            margin-top: 30px;
+            font-size: 2.8rem;
+            background: linear-gradient(to right, #ff0000, #ffffff); /* Merah ke putih */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+            opacity: 0;
+            animation: fadeIn 2s ease forwards;
+        }
 
-    .image-container {
-      margin-top: 30px;
-      position: relative;
-      opacity: 0;
-      animation: fadeIn 2s ease forwards 0.8s;
-    }
+        .image-container {
+            margin-top: 30px;
+            position: relative;
+            opacity: 0;
+            animation: fadeIn 2s ease forwards 0.8s;
+        }
 
-    .image-container img {
-      width: 340px;
-      border-radius: 12px;
-      box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
-    }
+        .image-container img {
+            width: 340px;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+        }
 
-    .description {
-      margin-top: 20px;
-      max-width: 650px;
-      text-align: center;
-      font-size: 1.2rem;
-      line-height: 1.6;
-      opacity: 0;
-      animation: fadeIn 2s ease forwards 1.5s;
-    }
+        .description {
+            margin-top: 20px;
+            max-width: 650px;
+            text-align: center;
+            font-size: 1.2rem;
+            line-height: 1.6;
+            opacity: 0;
+            animation: fadeIn 2s ease forwards 1.5s;
+        }
 
-    /* Animasi grafik Bitcoin */
-    .chart {
-      margin-top: 40px;
-      width: 90%;
-      max-width: 650px;
-      opacity: 0;
-      animation: fadeIn 2s ease forwards 2.5s;
-    }
+        /* Animasi grafik Bitcoin */
+        .chart {
+            margin-top: 40px;
+            width: 90%;
+            max-width: 650px;
+            opacity: 0;
+            animation: fadeIn 2s ease forwards 2.5s;
+        }
 
-    svg path {
-      stroke: #00ff99;
-      stroke-width: 3;
-      fill: none;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      animation: draw 4s ease-in-out forwards infinite alternate;
-    }
+        svg path {
+            stroke: #00ff99;
+            stroke-width: 3;
+            fill: none;
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 1000;
+            animation: draw 4s ease-in-out forwards infinite alternate;
+        }
 
-    /* Logo GitHub asli tanpa animasi */
-    .btn-github-icon {
-      margin-top: 30px;
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-decoration: none;
-      opacity: 0;
-      animation: fadeIn 2s ease forwards 3.2s;
-    }
+        /* Logo GitHub asli tanpa animasi */
+        .btn-github-icon {
+            margin-top: 30px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            opacity: 0;
+            animation: fadeIn 2s ease forwards 3.2s;
+        }
 
-    footer {
-      margin-top: 50px;
-      font-size: 0.9rem;
-      color: #888;
-      opacity: 0;
-      animation: fadeIn 2s ease forwards 4s;
-    }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9rem;
+            color: #888;
+            opacity: 0;
+            animation: fadeIn 2s ease forwards 4s;
+        }
 
-    /* Animasi umum */
-    @keyframes draw {
-      to {
-        stroke-dashoffset: 0;
-      }
-    }
+        /* Animasi umum */
+        @keyframes draw {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
 
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
-    /* Responsif */
-    @media (max-width: 768px) {
-      h1 {
-        font-size: 2rem;
-      }
-      .image-container img {
-        width: 80%;
-      }
-      .description {
-        font-size: 1rem;
-        padding: 0 10px;
-      }
-    }
-  </style>
+        /* Responsif */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            .image-container img {
+                width: 80%;
+            }
+            .description {
+                font-size: 1rem;
+                padding: 0 10px;
+            }
+        }
+    </style>
 </head>
 <body>
-  <h1>Joker Pip – Puncak Lembah</h1>
+    <h1>Joker Pip – Puncak Lembah</h1>
 
-  <div class="image-container">
-    <img src="./images/jokerpip.png" alt="Joker Pip">
-  </div>
+    <div class="image-container">
+        <img src="./images/jokerpip.png" alt="Joker Pip">
+    </div>
 
-  <p class="description">
-    Ilustrasi Joker yang sedang trading Bitcoin di malam hari, ditemani segelas minuman bertuliskan
-    <strong>Puncak Lembah</strong>. Visualisasi fluktuasi emosi dan dinamika pasar crypto.
-  </p>
+    <p class="description">
+        Ilustrasi Joker yang sedang trading Bitcoin di malam hari, ditemani segelas minuman bertuliskan
+        <strong>Puncak Lembah</strong>. Visualisasi fluktuasi emosi dan dinamika pasar crypto.
+    </p>
 
-  <!-- Grafik animasi -->
-  <div class="chart">
-    <svg viewBox="0 0 500 200">
-      <path d="M0,150 
-               Q50,100 100,120 
-               Q150,80 200,130 
-               Q250,60 300,140 
-               Q350,100 400,120 
-               Q450,70 500,150" />
-    </svg>
-  </div>
+    <!-- Grafik animasi -->
+    <div class="chart">
+        <svg viewBox="0 0 500 200">
+            <path d="M0,150 Q50,100 100,120 Q150,80 200,130 Q250,60 300,140 Q350,100 400,120 Q450,70 500,150" />
+        </svg>
+    </div>
 
-  <!-- Logo GitHub asli -->
-  <a class="btn-github-icon" href="https://github.com/jokerpip/jokerpip.github.io" target="_blank" aria-label="GitHub">
-    <svg width="32" height="32" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="white">
-      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-    </svg>
-  </a>
+    <!-- Logo GitHub asli -->
+    <a class="btn-github-icon" href="https://github.com/jokerpip/jokerpip.github.io" target="_blank" aria-label="GitHub">
+        <svg width="32" height="32" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="white">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+        </svg>
+    </a>
 
-  <footer>
-    &copy; 2025 Joker Pip – Seni & Edukasi Trading
-  </footer>
+    <footer>
+        &copy; 2025 Joker Pip – Seni & Edukasi Trading
+    </footer>
 </body>
 </html>
