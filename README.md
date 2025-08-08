@@ -1,72 +1,69 @@
-# 🌸💵 BUNGA DOLLAR
+# 🍽️ SEPIRING
 
-**Perusahaan Bunga Dollar** didirikan pada **Jumat malam, 8 Agustus 2025**, di tengah kabut dan hujan gerimis kawasan Puncak. Lahir dari perpaduan seni, teknologi, dan keuangan — Bunga Dollar hadir sebagai simbol pertumbuhan, keindahan, dan keberanian menghadapi dunia ekonomi global.
+**Sepiring** didirikan pada **Jumat malam, 8 Agustus 2025**, sebagai simbol kebersamaan, kesederhanaan, dan kekayaan rasa — baik dalam hidup, karya, maupun dunia finansial. Dari ruang kecil yang hangat di Puncak, lahirlah satu piring visi besar: menyatukan seni, logika, dan keseimbangan.
 
 ---
 
 ## 📜 Sejarah Singkat
 
-> _"Kami tidak hanya melihat grafik. Kami membaca cerita di baliknya."_  
+> _"Satu piring bisa berisi apa saja — ide, harapan, dan keberanian untuk mencoba."_  
 
-Bunga Dollar dimulai dari ruang kerja sederhana dan ide besar: membuat keuangan terasa **manusiawi**, **visual**, dan **penuh makna**.
+**Sepiring** lahir dari kebutuhan akan pendekatan baru dalam melihat dunia keuangan: bukan sekadar angka, tapi cerita. Bukan sekadar grafik, tapi gambaran kehidupan. 
 
-Nama **Bunga Dollar** berasal dari:
-- **Bunga** = Keindahan, pertumbuhan, dan hasil dari usaha (termasuk "interest" dalam finansial),
-- **Dollar** = Simbol nilai ekonomi dan keberanian global.
-
-Gabungan keduanya: **Kreativitas × Finansial × Globalitas**.
+### Makna di Balik Nama:
+- **Sepiring** = Tempat bersama, simbol keseimbangan dan keterbukaan untuk belajar, berbagi, dan tumbuh.
+- Filosofi: _“Apa yang kamu sajikan, itulah yang kamu rasakan.”_
 
 ---
 
 ## 🎯 Misi Kami
 
-- Membangun **platform edukatif finansial** dengan pendekatan visual & metaforis.
-- Menyediakan produk dan layanan yang mengintegrasikan **seni, teknologi, dan pasar**.
-- Mendorong pendekatan **holistik** dalam membangun kekayaan dan kebijaksanaan hidup.
+- Menghadirkan **alat bantu visual & edukatif** untuk memahami pasar secara manusiawi.
+- Menyatukan **seni dan teknologi** dalam membangun hubungan yang lebih dalam dengan nilai dan risiko.
+- Membangun komunitas yang menghidupkan filosofi **holistik** dalam berkarya dan berinvestasi.
 
 ---
 
-## 🧠 Proyek Unggulan
+## 🍱 Proyek Unggulan
 
-### 📈 Grafik Kuda Jaran (GKJ)
-Sebuah sistem visual unik untuk memahami chart pasar, menggambarkan gerak harga seperti perjalanan kuda — dengan puncak, lembah, dan arah yang mengandung makna.
+### 📊 GKJ — Grafik Kuda Jaran
+Sebuah pendekatan chart yang menyerupai gerakan alami: **puncak & lembah seperti alur hidup seekor kuda**, agar analisa teknikal menjadi lebih instingtif dan visual.
 
-### ⚙️ Asisten Perdagangan Visual (Trade Assistant GUI)
-Alat bantu interaktif untuk trader dengan fitur:
-- Order buy/sell instan
-- Input SL/TP, Lot, Risk %
-- Tab navigasi: **Trade | Close | Settings | Info**
-
----
-
-## 🏗️ Tahapan Awal
-
-- [x] Menyusun filosofi dan fondasi konsep
-- [x] Pembuatan prototipe pertama GKJ
-- [ ] Peluncuran aplikasi versi beta
-- [ ] Komunitas edukatif “Puncak Lembah”
-- [ ] Ekspansi platform edukasi dan trading tool
+### 🧭 Panel "Sepiring"
+Sebuah **Trade Assistant GUI** interaktif untuk trader, dengan fitur:
+- Buy / Sell / Close / Modify langsung dari chart
+- Input Lot, SL/TP, Risk (%), dan kalkulator otomatis
+- Navigasi tab: **Trade | Close | Settings | Info**
 
 ---
 
-## 📌 Nilai Inti
+## 🛠️ Status Pengembangan
 
-- **Estetika dalam Keputusan Finansial**
-- **Keseimbangan Risiko dan Kreativitas**
-- **Keberanian untuk Mandiri secara Finansial**
-
----
-
-## 📫 Kontak & Kolaborasi
-
-Ingin terlibat? Ingin bertanya lebih lanjut?
-
-Silakan hubungi kami melalui:
-- 📧 Email: bunga@puncaklembah.com
-- 🌐 Website: [Coming Soon]
-- 🧑‍🤝‍🧑 Komunitas: #PuncakLembah
+- [x] Konsep & identitas “Sepiring”
+- [x] Prototipe GKJ (Grafik Kuda Jaran)
+- [ ] UI/UX Panel Sepiring Beta
+- [ ] Peluncuran komunitas terbuka
+- [ ] Dokumentasi dan open-source kontribusi
 
 ---
 
-> "Bunga Dollar bukan sekadar perusahaan. Ia adalah perjalanan — dari lembah ide ke puncak pencapaian."
+## 💡 Prinsip Utama
 
+- **Kesederhanaan bukan kelemahan — ia adalah kekuatan.**
+- **Estetika bukan hiasan — ia adalah bahasa.**
+- **Keuangan bukan angka — ia adalah keputusan hidup.**
+
+---
+
+## 📫 Hubungi Kami
+
+Punya ide? Ingin bergabung?
+
+- ✉️ Email: sepiring@puncaklembah.com  
+- 🌐 Website: [Dalam pengembangan]  
+- 🧑‍🤝‍🧑 Komunitas: #SepiringSatuLembah
+
+---
+
+> _"Sepiring bukan hanya tempat menyajikan, tetapi tempat menyatukan."_  
+> — **Tim Sepiring**
