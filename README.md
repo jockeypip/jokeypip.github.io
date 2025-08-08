@@ -1,40 +1,72 @@
-# 🎭 Joker Pip – Puncak Lembah
+# 🌸💵 BUNGA DOLLAR
 
-![Joker Pip](./images/joker-puncak-lembah.png)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/jokerpip/jokerpip.github.io?style=for-the-badge&color=yellow)](https://github.com/jokerpip/jokerpip.github.io/stargazers)
-[![Issues](https://img.shields.io/github/issues/jokerpip/jokerpip.github.io?style=for-the-badge&color=red)](https://github.com/jokerpip/jokerpip.github.io/issues)
-[![License](https://img.shields.io/github/license/jokerpip/jokerpip.github.io?style=for-the-badge&color=blue)](https://github.com/jokerpip/jokerpip.github.io/blob/main/LICENSE)
-
-</div>
+**Perusahaan Bunga Dollar** didirikan pada **Jumat malam, 8 Agustus 2025**, di tengah kabut dan hujan gerimis kawasan Puncak. Lahir dari perpaduan seni, teknologi, dan keuangan — Bunga Dollar hadir sebagai simbol pertumbuhan, keindahan, dan keberanian menghadapi dunia ekonomi global.
 
 ---
 
-## 📖 Deskripsi
+## 📜 Sejarah Singkat
 
-Proyek ini menggambarkan **Joker** yang sedang **trading Bitcoin** di malam hari, dikelilingi layar penuh grafik harga.  
-Di sampingnya ada **gelas bertuliskan "Puncak Lembah"** – simbol naik turunnya pasar dan perjalanan emosi seorang trader.  
+> _"Kami tidak hanya melihat grafik. Kami membaca cerita di baliknya."_  
+
+Bunga Dollar dimulai dari ruang kerja sederhana dan ide besar: membuat keuangan terasa **manusiawi**, **visual**, dan **penuh makna**.
+
+Nama **Bunga Dollar** berasal dari:
+- **Bunga** = Keindahan, pertumbuhan, dan hasil dari usaha (termasuk "interest" dalam finansial),
+- **Dollar** = Simbol nilai ekonomi dan keberanian global.
+
+Gabungan keduanya: **Kreativitas × Finansial × Globalitas**.
 
 ---
 
-## 🧠 Diagram Psikologi Trading
+## 🎯 Misi Kami
 
-```mermaid
-mindmap
-  root((Puncak Lembah))
-    Puncak
-      Greed
-        Overconfidence
-        Impulsive Buy
-      Euphoria
-    Lembah
-      Fear
-        Panic Sell
-        Regret
-      Depression
-    Kesadaran
-      Manajemen Risiko
-      Disiplin
-      Kontrol Emosi
+- Membangun **platform edukatif finansial** dengan pendekatan visual & metaforis.
+- Menyediakan produk dan layanan yang mengintegrasikan **seni, teknologi, dan pasar**.
+- Mendorong pendekatan **holistik** dalam membangun kekayaan dan kebijaksanaan hidup.
+
+---
+
+## 🧠 Proyek Unggulan
+
+### 📈 Grafik Kuda Jaran (GKJ)
+Sebuah sistem visual unik untuk memahami chart pasar, menggambarkan gerak harga seperti perjalanan kuda — dengan puncak, lembah, dan arah yang mengandung makna.
+
+### ⚙️ Asisten Perdagangan Visual (Trade Assistant GUI)
+Alat bantu interaktif untuk trader dengan fitur:
+- Order buy/sell instan
+- Input SL/TP, Lot, Risk %
+- Tab navigasi: **Trade | Close | Settings | Info**
+
+---
+
+## 🏗️ Tahapan Awal
+
+- [x] Menyusun filosofi dan fondasi konsep
+- [x] Pembuatan prototipe pertama GKJ
+- [ ] Peluncuran aplikasi versi beta
+- [ ] Komunitas edukatif “Puncak Lembah”
+- [ ] Ekspansi platform edukasi dan trading tool
+
+---
+
+## 📌 Nilai Inti
+
+- **Estetika dalam Keputusan Finansial**
+- **Keseimbangan Risiko dan Kreativitas**
+- **Keberanian untuk Mandiri secara Finansial**
+
+---
+
+## 📫 Kontak & Kolaborasi
+
+Ingin terlibat? Ingin bertanya lebih lanjut?
+
+Silakan hubungi kami melalui:
+- 📧 Email: bunga@puncaklembah.com
+- 🌐 Website: [Coming Soon]
+- 🧑‍🤝‍🧑 Komunitas: #PuncakLembah
+
+---
+
+> "Bunga Dollar bukan sekadar perusahaan. Ia adalah perjalanan — dari lembah ide ke puncak pencapaian."
+
